@@ -10,6 +10,7 @@ import 'package:flutterapp/digitallibraryapp/generatedarrowleftwidget/GeneratedA
 import 'package:flutterapp/digitallibraryapp/generatedbellwidget/GeneratedBellWidget.dart';
 import 'package:flutterapp/digitallibraryapp/generatedsearchwidget2/GeneratedSearchWidget2.dart';
 
+
 void main() {
   runApp(DigitalLibraryApp());
 }
