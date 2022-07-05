@@ -56,6 +56,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_svg",
+      "rootUri": "file:///C:/Users/aishu/AppData/Local/Programs/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.22.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///C:/Users/aishu/AppData/Local/Programs/Flutter/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -87,15 +93,21 @@
     },
     {
       "name": "path_drawing",
-      "rootUri": "file:///C:/Users/aishu/AppData/Local/Programs/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.4.1+1",
+      "rootUri": "file:///C:/Users/aishu/AppData/Local/Programs/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.5.1+1",
       "packageUri": "lib/",
-      "languageVersion": "1.19"
+      "languageVersion": "2.12"
     },
     {
       "name": "path_parsing",
-      "rootUri": "file:///C:/Users/aishu/AppData/Local/Programs/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.1.4",
+      "rootUri": "file:///C:/Users/aishu/AppData/Local/Programs/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.2.1",
       "packageUri": "lib/",
-      "languageVersion": "1.19"
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/aishu/AppData/Local/Programs/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-4.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
     },
     {
       "name": "sky_engine",
@@ -152,13 +164,19 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "flutterapp",
+      "name": "xml",
+      "rootUri": "file:///C:/Users/aishu/AppData/Local/Programs/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/xml-5.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "app21",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-05-26T15:27:57.851655Z",
+  "generated": "2022-07-05T06:56:23.736476Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }
